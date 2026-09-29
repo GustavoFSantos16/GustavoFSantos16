@@ -1,10 +1,6 @@
 # 👋 Olá! Eu sou Gustavo Ferreira Santos
 
-<div align="center">
-
-<img src="./logo.gif" width="250">
-
-</div>
+<img src="./logo_faixa.gif" width="100%">
 
 💻 Estudante apaixonado por **Tecnologia, Programação e Robótica**.
 
@@ -25,27 +21,11 @@ Atualmente, estou desenvolvendo meus conhecimentos em programação e participan
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
-### 💻 Programação
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🔧 Hardware e Robótica
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![LEGO](https://img.shields.io/badge/LEGO-FF0000?style=for-the-badge&logo=lego&logoColor=white)
-
-### 🖥️ Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,php,html,css,arduino,linux,github,vscode,mysql&perline=5" />
+</p>
 
 ---
 
