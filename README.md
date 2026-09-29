@@ -1,5 +1,11 @@
 # 👋 Olá! Eu sou Gustavo Ferreira Santos
 
+<div align="center">
+
+<img src="./logo.gif" width="250">
+
+</div>
+
 💻 Estudante apaixonado por **Tecnologia, Programação e Robótica**.
 
 Atualmente, estou desenvolvendo meus conhecimentos em programação e participando de projetos que unem **criatividade, tecnologia e trabalho em equipe**. Gosto de aprender coisas novas, enfrentar desafios e transformar ideias em projetos reais.
@@ -58,7 +64,6 @@ Para mim, robótica não é apenas construir e programar um robô. É sobre:
 ## 🔭 Atualmente estudando
 
 ```text
-
 🐍 Python
 ⌨️ PHP
 🟨 JavaScript
