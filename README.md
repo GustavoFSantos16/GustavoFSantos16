@@ -24,7 +24,7 @@ Atualmente, estou desenvolvendo meus conhecimentos em programação e participan
 <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,php,html,css,arduino,linux,github,vscode,mysql&perline=5" />
+  <img src="https://skillicons.dev/icons?i=py,js,php,html,css,arduino,linux,windows,github,vscode,mysql,postman&perline=6" />
 </p>
 
 ---
