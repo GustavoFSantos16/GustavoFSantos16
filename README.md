@@ -10,7 +10,7 @@ Atualmente, estou desenvolvendo meus conhecimentos em programação e participan
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante do Ensino Médio 
+- 🎓 Estudante do Ensino Médio
 - 🤖 Participante e mentor de **Robótica**
 - 🏆 Integrante da equipe **Subnautico's**
 - 🧩 Participante da **FIRST LEGO League (FLL)**
@@ -37,7 +37,7 @@ Faço parte da equipe **Subnautico's**, participando de competições da **FIRST
 
 Para mim, robótica não é apenas construir e programar um robô. É sobre:
 
-> **Aprender, errar, melhorar e trabalhar com pessoas incríveis para transformar uma ideia em realidade.**
+> **Aprender, errar, melhorar e trabalhar em equipe para transformar uma ideia em realidade.**
 
 ---
 
